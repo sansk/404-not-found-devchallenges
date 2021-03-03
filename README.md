@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://https://github.com/sansk/404-not-found-devchallenges">
       Solution
     </a>
     <span> | </span>
@@ -39,7 +39,7 @@
 
 ![screenshot](./design/404-not-found.gif)
 
-This project is done as a part of this [dev challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY). You can see the [Demo here](https://example.com) and the [code here](https://github.com).
+This project is done as a part of this [dev challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY). You can see the [Demo here](https://example.com) and the [code here](https://github.com/sansk/404-not-found-devchallenges).
 
 ### Built With
 
