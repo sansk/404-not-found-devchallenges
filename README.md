@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://404-not-found-sansk.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -39,7 +39,7 @@
 
 ![screenshot](./design/404-not-found.gif)
 
-This project is done as a part of this [dev challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY). You can see the [Demo here](https://example.com) and the [code here](https://github.com/sansk/404-not-found-devchallenges).
+This project is done as a part of this [dev challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY). You can see the [Demo here](https://404-not-found-sansk.netlify.app/) and the [code here](https://github.com/sansk/404-not-found-devchallenges).
 
 ### Built With
 
