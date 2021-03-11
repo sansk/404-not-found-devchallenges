@@ -54,7 +54,7 @@ This project is done as a part of this [dev challenge](https://devchallenges.io/
 
 This application/page was built to complete the given user stories using tailwind utility classes. No CSS apart from tailwind classes were used.
 
-In addition to that I have applied some animations using tailwind utilities.
+In addition to that I have applied some animations using tailwind utilities. Deployed to Netlify.
 
 
 ## Acknowledgements
